@@ -7,7 +7,7 @@ This is a documentation of a second project assigned to me while learning Data A
 This data analysis project aims to generate insight into the sales activities of the sales of a company for a given financial period. it analysis the various parameters. In the data given, we aim to gather enough insight to make specific and important decisions which help us tell clear and convincing stories concerning the data and the performance from our data.
 
 ### Data Sources
-The primary source data used here is the Excel Customer Data Analysis and this is an open data that can be freely downloaded from an open source online such as a kaggle or FRED or any other data repository site.
+The primary source data used here is the Excel Customer Data Analysis.csv and this is an open data that can be freely downloaded from an open source online such as a kaggle or FRED or any other data repository site.
 
 ### Tools Used
 - Microsoft Excel [Download Here ](https://www.microsoft.com)
